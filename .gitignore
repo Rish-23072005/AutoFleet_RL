@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/

@@ -139,6 +139,3 @@ This makes the project flexible to adapt **traditional algorithms** or **deep re
 
 ✨ With this setup, you can **simulate**, **visualize**, and **evaluate** autonomous AGV fleets in warehouses, and extend it with **cutting-edge RL research**.
 
----
-
-Would you like me to also add a **badges section (Python version, FastAPI, Streamlit, License)** at the top of the README so it looks more professional on GitHub?

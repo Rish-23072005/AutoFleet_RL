@@ -10,7 +10,7 @@ The system integrates:
 * 👁 **Computer Vision** for obstacle detection
 * 🏗 **3D simulation (Unity/ML-Agents)** for training and testing
 * 🖥 **FastAPI + Streamlit Dashboard** for real-time monitoring
-* ☁️ **Cloud deployment** for scalability
+  
 
 This approach improves efficiency, reduces congestion, lowers operational costs, and enhances adaptability in modern warehouse logistics.
 
@@ -38,10 +38,10 @@ This approach improves efficiency, reduces congestion, lowers operational costs,
   * Simulates warehouses in **Unity ML-Agents** for safe model training.
   * Tests AGV navigation, congestion handling, and efficiency.
 
-* **Scalable Dashboard & Cloud Deployment**
+* **Scalable Dashboard 
 
   * Interactive **Streamlit/React.js dashboard** with live matrix grid.
-  * Cloud-ready for real-time fleet monitoring at scale.
+  
 
 * **Performance Metrics**
 
